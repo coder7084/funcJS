@@ -1,5 +1,5 @@
 /*
- * jQuery Functions Library
+ * Javascript Functions Library
  *
  * Copyright 2013, Teena Thomas
  * 
