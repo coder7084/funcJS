@@ -1,4 +1,4 @@
 funcJS
 ======
 
-A JS library of various functions
+A JS library of various javascript functions
