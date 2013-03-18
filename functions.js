@@ -1,5 +1,5 @@
 /*
- * jQuery Messenger Plugin
+ * jQuery Functions Library
  *
  * Copyright 2013, Teena Thomas
  * 
